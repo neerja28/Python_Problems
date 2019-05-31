@@ -6,7 +6,7 @@ count = 0
 
 if (nterms < 0):
     print ("Provide a valid input")
-elif (nterms == 0):
+elif (nterms == 1):
     print (f"The Fibonacci series is {fib0}")
 else:
     print ("The fibonacci series is: \n")
